@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "chandrima-crud-web-part-client-side-solution",
+    "id": "3a93d59b-708c-4ffc-bdb0-3b8068a3d284",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/chandrima-crud-web-part.sppkg"
+  }
+}
